@@ -7,7 +7,7 @@
 
 > A simple CRUD made with LUA and [restserver-xavante](https://github.com/hishamhm/restserver)
 >
-> Application that runs the API [React Native](https://)
+> Application that runs the API - [[REACT NATIVE] person-application](https://github.com/TacioAntonio/react-native-person-application)
 
 ## Endpoints
 ### Persons
